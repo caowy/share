@@ -23,8 +23,9 @@
 </head>
 
 <body>
-yamashigeDev test dayo!
-1111111111111111111111111!!!!!!!!!!!!!!
+
+test 2014/02/17
+########################
 
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
